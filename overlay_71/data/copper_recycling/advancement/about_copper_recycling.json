@@ -4,7 +4,7 @@
       "id": "minecraft:copper_ingot"
     },
     "title": "Copper Recycling",
-    "description": "Smelt all varieties of cut copper blocks and lightning rods into copper ingots.",
+    "description": "Smelt all varieties of copper doors, trapdoors, grates and more into copper ingots.",
     "show_toast": false,
     "announce_to_chat": false
   },

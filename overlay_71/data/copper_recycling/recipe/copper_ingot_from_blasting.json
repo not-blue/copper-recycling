@@ -1,9 +1,7 @@
 {
   "type": "minecraft:blasting",
   "category": "misc",
-  "ingredient": {
-    "tag": "copper_recycling:recyclable_copper"
-  },
+  "ingredient": "#copper_recycling:recyclable_copper",
   "result": {
     "id": "minecraft:copper_ingot"
   },
