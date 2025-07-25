@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": "#copper_recycling:recyclable_copper"
+            "items": "#copper_recycling:becomes_copper_ingot"
           }
         ]
       }

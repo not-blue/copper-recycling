@@ -4,7 +4,7 @@
       "id": "minecraft:copper_ingot"
     },
     "title": "Copper Recycling",
-    "description": "Smelt all varieties of copper doors, trapdoors, grates and more into copper ingots.",
+    "description": "Smelt varieties of copper items into copper ingots or nuggets.",
     "show_toast": false,
     "announce_to_chat": false
   },

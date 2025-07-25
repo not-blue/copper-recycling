@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": "#copper_recycling:recyclable_copper",
+  "ingredient": "#copper_recycling:becomes_copper_ingot",
   "result": {
     "id": "minecraft:copper_ingot"
   },
