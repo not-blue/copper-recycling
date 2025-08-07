@@ -16,25 +16,17 @@
       "conditions": {
         "recipe": "copper_recycling:copper_nugget_from_smelting"
       }
-    },
-    "has_blasting_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "copper_recycling:copper_nugget_from_blasting"
-      }
     }
   },
   "requirements": [
     [
       "has_smelting_recipe",
-      "has_recyclable_copper",
-      "has_blasting_recipe"
+      "has_recyclable_copper"
     ]
   ],
   "rewards": {
     "recipes": [
-      "copper_recycling:copper_nugget_from_smelting",
-      "copper_recycling:copper_nugget_from_blasting"
+      "copper_recycling:copper_nugget_from_smelting"
     ]
   }
 }

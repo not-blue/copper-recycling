@@ -6,35 +6,27 @@
       "conditions": {
         "items": [
           {
-            "items": "#copper_recycling:recyclable_copper"
+            "items": "#copper_recycling:becomes_copper_nugget"
           }
         ]
-      }
-    },
-    "has_smelting_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "copper_recycling:copper_ingot_from_smelting"
       }
     },
     "has_blasting_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "copper_recycling:copper_ingot_from_blasting"
+        "recipe": "copper_recycling:copper_nugget_from_blasting"
       }
     }
   },
   "requirements": [
     [
-      "has_smelting_recipe",
       "has_recyclable_copper",
       "has_blasting_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "copper_recycling:copper_ingot_from_smelting",
-      "copper_recycling:copper_ingot_from_blasting"
+      "copper_recycling:copper_nugget_from_blasting"
     ]
   }
 }
