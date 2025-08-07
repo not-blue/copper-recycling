@@ -3,23 +3,23 @@
     "pack_format": 48,
     "supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 999
+      "max_inclusive": 81
     },
-    "description": "Smelt or blast copper items back to ingots. For 1.21-1.21.5."
+    "description": "Smelt or blast copper items back to ingots."
   },
   "overlays": {
     "entries": [
       {
         "formats": {
           "min_inclusive": 57,
-          "max_inclusive": 70
+          "max_inclusive": 81
         },
         "directory": "overlay_57"
       },
       {
         "formats": {
           "min_inclusive": 71,
-          "max_inclusive": 999
+          "max_inclusive": 81
         },
         "directory": "overlay_71"
       }
