@@ -1,6 +1,5 @@
 {
   "pack": {
-    "pack_format": [88,0],
     "min_format": [88,0],
     "max_format": [88,0],
     "description": "Smelt or blast copper items back to ingots and nuggets."
