@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_recyclable_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#copper_recycling:becomes_copper_nugget"
+          }
+        ]
+      }
+    },
+    "has_blasting_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipes": "copper_recycling:copper_nugget_from_blasting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_recyclable_copper",
+      "has_blasting_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "copper_recycling:copper_nugget_from_blasting"
+    ]
+  }
+}
