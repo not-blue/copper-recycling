@@ -14,7 +14,7 @@
     "has_smelting_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "copper_recycling:copper_nugget_from_smelting"
+        "recipe": "minecraft:copper_nugget_from_smelting"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "copper_recycling:copper_nugget_from_smelting"
+      "minecraft:copper_nugget_from_smelting"
     ]
   }
 }
