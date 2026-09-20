@@ -14,7 +14,7 @@
     "has_blasting_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipes": "copper_recycling:copper_nugget_from_blasting"
+        "recipes": "minecraft:copper_nugget_from_blasting"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "copper_recycling:copper_nugget_from_blasting"
+      "minecraft:copper_nugget_from_blasting"
     ]
   }
 }
